@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - This defines the main function which 
+ * main - This defines the main function which
  * manipulates the last digit
  *
  * Return: Gives asuccess response of 0
