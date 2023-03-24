@@ -7,7 +7,7 @@
  * Return: 1 is True for upper 0 is False as in lower
  */
 
-int _isupper(int c)
+int _isdigit(int c)
 {
 	if ((c >= 48) && (c <= 57))
 		return (1);
